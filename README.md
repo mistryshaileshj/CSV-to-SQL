@@ -1,3 +1,4 @@
+<img width="1279" height="608" alt="Screen_1" src="https://github.com/user-attachments/assets/56dd0612-4994-4abe-af62-27a85219a2a5" />
 # 🦆 Read CSV with SQL
 
 A lightweight [Streamlit](https://streamlit.io/) app for querying CSV files with SQL, powered by an in-memory [DuckDB](https://duckdb.org/) engine. Upload one or more CSVs, run arbitrary SQL against them, and verify the output in an interactive grid — with careful, data-integrity-first type handling that keeps values like account codes (`011`) from being silently corrupted.
@@ -31,6 +32,7 @@ This tool reads every file as **text first** (lossless), then converts columns t
 ---
 
 ## Screenshots
+<img width="1279" height="608" alt="Screen_1" src="https://github.com/user-attachments/assets/779edda9-751f-4af1-91d2-b69bb408e6e2" />
 
 > _Add a screenshot or short screen recording here — visuals make the README (and any social post about it) far more compelling._
 >
