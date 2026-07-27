@@ -33,7 +33,8 @@ This tool reads every file as **text first** (lossless), then converts columns t
 ## Screenshots
 <img width="1280" height="588" alt="Screen_1" src="https://github.com/user-attachments/assets/d4894284-c63d-4ff1-81e2-38aa4ff71db2" />
 <img width="1277" height="560" alt="Screen_2" src="https://github.com/user-attachments/assets/383021e5-73bc-4820-b195-e994140babe9" />
-<img width="1316" height="599" alt="Screen_3" src="https://github.com/user-attachments/assets/8cc49184-9f62-42bf-9d2f-8deda98053c1" />
+<img width="1267" height="582" alt="Screen_3" src="https://github.com/user-attachments/assets/4008407c-93ff-43c2-b536-d26e81d8c061" />
+
 
 ---
 
