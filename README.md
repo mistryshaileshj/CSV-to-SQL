@@ -35,8 +35,6 @@ This tool reads every file as **text first** (lossless), then converts columns t
 <img width="1277" height="560" alt="Screen_2" src="https://github.com/user-attachments/assets/383021e5-73bc-4820-b195-e994140babe9" />
 <img width="1316" height="599" alt="Screen_3" src="https://github.com/user-attachments/assets/8cc49184-9f62-42bf-9d2f-8deda98053c1" />
 
-> Suggested shots: the sidebar column-type panel showing a leading-zero warning, and the result grid after a `GROUP BY` query.
-
 ---
 
 ## Installation
